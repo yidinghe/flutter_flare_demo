@@ -10,7 +10,8 @@ to learn how to create a simple animation on Flare and export it to run on Flutt
 
 ### Part 1 — Create Animation
 https://www.jianshu.com/p/4398d6a48ae2     
-[英文原文地址](https://proandroiddev.com/how-to-flare-a-flutter-app-part-1-create-animation-3829fb2ed72a)
+[Part1英文原文地址](https://proandroiddev.com/how-to-flare-a-flutter-app-part-1-create-animation-3829fb2ed72a)
 
 ### Part 2 — Flutter Integration
-https://proandroiddev.com/how-to-flare-a-flutter-app-part-2-flutter-integration-b188b0661d17
+[Part2英文原文地址](https://proandroiddev.com/how-to-flare-a-flutter-app-part-2-flutter-integration-b188b0661d17)
+
