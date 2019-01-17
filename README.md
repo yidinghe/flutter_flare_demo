@@ -1,4 +1,4 @@
-# The Boring Star Animation
+# Flutter Flare Demo - The Borning Star Animation
 
 A sample for Flare on Flutter.
 
