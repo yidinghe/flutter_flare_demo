@@ -1,16 +1,17 @@
-# flutter_flare_demo
+# The Boring Star Animation
 
-Flutter Flare Demo Application.
+A sample for Flare on Flutter.
 
-## Getting Started
+<img src="/screenshots/animate.gif" width="320">
 
-This project is a starting point for a Flutter application.
+## Getting Started with my tutorial
+to learn how to create a simple animation on Flare and export it to run on Flutter.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+### Part 1 — Create Animation
+https://www.jianshu.com/p/4398d6a48ae2
+原文地址:  
+https://proandroiddev.com/how-to-flare-a-flutter-app-part-1-create-animation-3829fb2ed72a
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+### Part 2 — Flutter Integration
+https://proandroiddev.com/how-to-flare-a-flutter-app-part-2-flutter-integration-b188b0661d17
