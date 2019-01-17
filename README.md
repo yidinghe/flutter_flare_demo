@@ -13,5 +13,6 @@ https://www.jianshu.com/p/4398d6a48ae2
 [Part1英文原文地址](https://proandroiddev.com/how-to-flare-a-flutter-app-part-1-create-animation-3829fb2ed72a)
 
 ### Part 2 — Flutter Integration
+https://www.jianshu.com/p/a9712af1f582    
 [Part2英文原文地址](https://proandroiddev.com/how-to-flare-a-flutter-app-part-2-flutter-integration-b188b0661d17)
 
